@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/bhupendrabhudia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bhupendra-bhudia.github.io
+  * I am bhupendrabhudia (https://keybase.io/bhupendrabhudia) on keybase.
+  * I have a public key with fingerprint 8375 CE94 EC1B AEE7 0FA2  51C0 2038 FFF2 6485 773A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010102576204a6e7297a87eb7c070102b8ff89f7eb465e65c205b32fdbf51d15d8e50a",
+      "fingerprint": "8375ce94ec1baee70fa251c02038fff26485773a",
+      "host": "keybase.io",
+      "key_id": "2038fff26485773a",
+      "kid": "010102576204a6e7297a87eb7c070102b8ff89f7eb465e65c205b32fdbf51d15d8e50a",
+      "uid": "836a512810a9c3cdb2804eef005fb019",
+      "username": "bhupendrabhudia"
+    },
+    "service": {
+      "hostname": "bhupendra-bhudia.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1508868124,
+  "expire_in": 157680000,
+  "prev": "f2a66983f4c24433019b7bbb190134cde1b6e4026de2b115a35dba05981cdb19",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIsAnicrVJbbA1BGD4HLW2DNoKQitiWkB7NzOzOXo5UpA8VLUURSjmZ2Z093Rz2
+HLt7SlGEtFJNkL40fRWkKlQbRBrRi0tc45YQIh76QpvQ8NAiJ2W2eBGPZh5m5v+/
+7/v//8vcnjoxkBk8v/7x1bSc2TnBh30Xk4HK4cO5+wUaN2qF8H4hxsYPttNgrheJ
+WYYQFgDkG2FFRkAiMlOQphBVYVTRgeJnqGqaqmbyiCRjJmMdAUxFZBrUxNCA2FAZ
+BkQICaZlR5mTcCzb47KqqGCdaRLTISWMKcAkCEMdICByQRPJkooVRfSJ1XHXZ/Dm
+KHFZoRXnMf6IjLf3D/x/7js5LqeKMsEQqRAQTRd1gyIVSIyZAGCTAqj5QJc5NtnF
+OJpWJxPMNhzCL4ZFhLqQwJM1ls58f/2B/gYu/YUsjFpedZL+GjLhxL24Ht/JcdWe
+l3DDvo5Xm/CJexiN/JaMUMs2uLmcUcMc14rbQhhypO5Zfg2IgarKKkRSSGB7E5bD
+IpaP4NaogC+/DqvhkiYisqypoinpSJJEkU9FFUop1AAUJd1gkMpMAkg2GKIQYiJi
+gxKANRVyP8YtcNluOy6Ekcz7JFGu6VpRm3hJhwl1/b1VkwLBzEB62gT/1wUyM7L/
+/MWi05NT0+uPHoq1p7UNXii9WbQFthu7h5xYj5naXnknP7f7Ge5sCR5TPlceHyof
+Xri0KDv1OpQob/Lmb61obqhoKCyfs7H9+5ZNdmdX59wD10/eC2zLAt37FgxtzBiZ
++SLnkvgh56u89dOyaZXo4/LeB8FHyUNK8a3o4vTMV1eLvzTX3DhbsKasdzCv7lRu
+1ZQu5YsZO7PWbn2zpLeirWxWceh2uroyLbJuXsuad6XPTtzoeXXlbf7qvm/T7w48
+7BDJwh/H7tlHGqMvN5fcGVnZ2PT0Sf3yCyN7ZhzUzu3o6IIlG4brWtMHCprJ+/ur
+THh/zO1/qj1PjWWkFo0OV10exXnXLq04mPUTz2lELA==
+=krIj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bhupendrabhudia
+
+==================================================================
+
