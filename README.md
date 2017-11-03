@@ -9,11 +9,13 @@ Also see:
 
 # [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
 
+[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+
 ## Preview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/templates/creative.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/)
+[![New Age Preview](https://startbootstrap.com/assets/img/templates/new-age.jpg)](https://blackrockdigital.github.io/startbootstrap-new-age/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-new-age/)**
 
 ## Usage
 
@@ -33,3 +35,9 @@ After installation, run `npm install` and then run `gulp dev` which will open up
 - `gulp minify-css` minifies the compiled CSS file
 - `gulp minify-js` minifies the themes JS file
 - `gulp copy` copies dependencies from node_modules to the vendor directory
+
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-new-age/blob/gh-pages/LICENSE) license.

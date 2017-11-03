@@ -1,6 +1,12 @@
 // Bootstrap overrides for this template
+.bg-primary {
+  background: $theme-primary;
+  background: -webkit-linear-gradient($theme-primary, darken($theme-primary, 5%));
+  background: linear-gradient($theme-primary, darken($theme-primary, 5%));
+}
+
 .text-primary {
-  color: $theme-primary !important;
+  color: $theme-primary;
 }
 
 .no-gutter > [class*='col-'] {
@@ -8,22 +14,44 @@
   padding-left: 0;
 }
 
-.btn-default {
-  @include button-variant($gray-darker, white, white);
+.btn-outline {
+  color: white;
+  border: 1px solid;
+  border-color: white;
+  &:hover,
+  &:focus,
+  &:active,
+  &.active {
+    color: white;
+    border-color: $theme-primary;
+    background-color: $theme-primary;
+  }
 }
 
-.btn-primary {
-  @include button-variant(white, $theme-primary, $theme-primary);
+.btn-outline2 {
+  color: white;
+  border: 1px solid;
+  border-color: white;
+  &:hover,
+  &:focus,
+  &:active,
+  &.active {
+    color: white;
+    border-color: $theme-secondary;
+    background-color: $theme-secondary;
+  }
 }
 
 .btn {
-  font-weight: 700;
-  text-transform: uppercase;
-  border: none;
   border-radius: 300px;
-  @include sans-serif-font;
+  @include alt-font;
 }
 
 .btn-xl {
-  padding: 15px 30px;
+  font-size: 11px;
+  padding: 15px 45px;
+}
+
+.text-muted {
+  color: $theme-tertiary;
 }
