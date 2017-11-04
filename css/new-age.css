@@ -204,7 +204,7 @@ section.features .feature-item {
 section.cta {
   position: relative;
   padding: 250px 0;
-  background-image: url("https://media.bhudia.xyz/img/cta2/cta2-img.png");
+  background-image: url("http://media.bhudia.xyz/img/cta2/cta2-img.png");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
