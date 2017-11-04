@@ -118,9 +118,9 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: white;
-  background: url("http://media.bhudia.xyz/img/bg-pattern.png"), #a27402;
-  background: url("http://media.bhudia.xyz/img/bg-pattern.png"), -webkit-linear-gradient(to left, #a27402, black);
-  background: url("http://media.bhudia.xyz/img/bg-pattern.png"), linear-gradient(to left, #a27402, black); }
+  background: url("../img/bg-pattern.png"), #a27402;
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #a27402, black);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #a27402, black); }
   header.masthead .header-content {
     max-width: 500px;
     margin-bottom: 100px;
