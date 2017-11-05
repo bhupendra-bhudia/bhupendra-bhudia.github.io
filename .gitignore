@@ -10,3 +10,7 @@ bower_components
 .idea
 *.iml
 yarn.lock
+
+# Temp files
+*.swp
+
