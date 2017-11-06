@@ -3,9 +3,9 @@
 Personal profile static website.
 
 Also see:
-- www.bhudia.co
-- www.quedex.co
-- www.bhudia.xyz
+- http://www.bhudia.co
+- http://www.quedex.co
+- http://www.bhudia.xyz
 
 # [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
 
